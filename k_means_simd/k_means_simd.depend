@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1682161991 source:d:\software\codeblocks\k_means_simd\main.cpp
+	<iostream>
+	<vector>
+	<random>
+	<chrono>
+	<limits>
+	<algorithm>
+	<immintrin.h>
+	<string.h>
+	<vector>
+

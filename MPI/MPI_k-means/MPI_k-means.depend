@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1685338320 source:d:\software\codeblocks\mpi_k-means\main.cpp
+	<mpi.h>
+	<iostream>
+	<vector>
+	<random>
+	<chrono>
+	<time.h>
+	<limits>
+	<algorithm>
+	<immintrin.h>
+	<string.h>
+	<vector>
+
+1572841416 d:\software\mpi\include\mpi.h
+	<stdint.h>
+	<sal.h>
+	<stdint.h>
+

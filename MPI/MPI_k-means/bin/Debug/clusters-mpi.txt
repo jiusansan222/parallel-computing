@@ -1,0 +1,34 @@
+cluster-0:
+pitviper ,slowworm ,slug ,worm ,
+
+cluster-1:
+chicken ,crow ,dove ,duck ,flamingo ,fruitbat
+gull ,hawk ,lark ,parakeet ,pheasant ,skimmer
+skua ,sparrow ,swan ,vampire ,wren ,
+
+cluster-2:
+bass ,carp ,catfish ,chub ,dogfish ,dolphin
+haddock ,herring ,pike ,piranha ,porpoise ,seahorse
+seal ,seasnake ,sole ,stingray ,tuna ,
+
+cluster-3:
+kiwi ,ostrich ,penguin ,rhea ,vulture ,
+
+cluster-4:
+crab ,crayfish ,flea ,gnat ,honeybee ,housefly
+ladybird ,lobster ,moth ,octopus ,scorpion ,starfish
+termite ,wasp ,
+
+cluster-5:
+clam ,seawasp ,
+
+cluster-6:
+aardvark ,antelope ,bear ,boar ,buffalo ,calf
+cavy ,cheetah ,deer ,elephant ,frog ,frog
+giraffe ,girl ,goat ,gorilla ,hamster ,hare
+leopard ,lion ,lynx ,mink ,mole ,mongoose
+newt ,opossum ,oryx ,platypus ,polecat ,pony
+puma ,pussycat ,raccoon ,reindeer ,sealion ,squirrel
+toad ,tortoise ,tuatara ,vole ,wallaby ,wolf
+
+
